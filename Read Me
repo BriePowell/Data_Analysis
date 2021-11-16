@@ -2,21 +2,19 @@ This is a data analysis project evaluating the twitter activity revolving around
 the Oprah Winfrey interview with Harry and Meghan, the Duke and Duchess of Sussex.
 
 Context:
-
 The social media landscape is rife with hot button topics, toxic rhetoric, and immeasurable humor. Few topics (on my timeline at least)
 are more polarizing than opinions surrounding Prince Harry and his wife Meghan, the Duchess of Sussex. Earlier this year the couple recorded an exclusive
 interview with Oprah Winfrey.
 
-Tasks:
 
+Tasks:
 Clean the dataset - most problematic is the location, twitter allows users to supply their own location; some classic hits: Planet Earth, D(M)V, Buckeye Nation, etc.
 Perform exploratory analysis - size and shape of the data set, determine what variables I will need to create, etc.
-Main analysis - 
+Main analysis - sentiment analysis, sentiment over time, account authenticity, top accounts, top tweets, top hashtags, activity location
 Visualization - create a visually appealing dashboard using Tableau
 Report - compile the final analysis and visualizations into a pdf report that summarizes the findings.
 
 
 Acknowledgements:
-
 Dataset credit to: Kris Lee via Kaggle (https://www.kaggle.com/soohuilee/meghan-markle-tweets)
 Image credit: TBD
