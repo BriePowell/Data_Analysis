@@ -10,11 +10,10 @@ interview with Oprah Winfrey.
 Tasks:
 Clean the dataset - most problematic is the location, twitter allows users to supply their own location; some classic hits: Planet Earth, D(M)V, Buckeye Nation, etc.
 Perform exploratory analysis - size and shape of the data set, determine what variables I will need to create, etc.
-Main analysis - sentiment analysis, sentiment over time, account authenticity, top accounts, top tweets, top hashtags, activity location
+Main analysis - sentiment analysis, eventually: sentiment over time, account authenticity, top accounts, top tweets, top hashtags, activity location
 Visualization - create a visually appealing dashboard using Tableau
 Report - compile the final analysis and visualizations into a pdf report that summarizes the findings.
 
 
 Acknowledgements:
 Dataset credit to: Kris Lee via Kaggle (https://www.kaggle.com/soohuilee/meghan-markle-tweets)
-Image credit: TBD
