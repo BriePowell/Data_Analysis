@@ -17,3 +17,7 @@ Report - compile the final analysis and visualizations into a pdf report that su
 
 Acknowledgements:
 Dataset credit to: Kris Lee via Kaggle (https://www.kaggle.com/soohuilee/meghan-markle-tweets)
+
+Pending:
+I want to update this project so that it's less cumbersome to evaluate. The output from the parsing of the hashtags/mentions take up significant space and technically contribute
+very little if anything to the analysis.
